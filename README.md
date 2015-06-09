@@ -5,3 +5,7 @@ A simple ruby code for singing simple subtraction mathematical problem. To run t
 $ ruby anak-ayam-kotek-kotek.rb
 
 Have fun implementing the code.
+
+Requirements :
+
+Any flavors of Ruby the intepreter that may facilitate the CLI (command line intepreter).
