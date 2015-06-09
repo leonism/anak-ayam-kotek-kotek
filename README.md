@@ -4,8 +4,14 @@ A simple ruby code for singing simple subtraction mathematical problem. To run t
 
 $ ruby anak-ayam-kotek-kotek.rb
 
-Have fun implementing the code.
+# Requirements :
 
-Requirements :
+- Any flavors of Ruby the intepreter that may facilitate the CLI (command line intepreter).
+- Go to http://ruby-lang.com to install Ruby, according to your Operating System.
 
-Any flavors of Ruby the intepreter that may facilitate the CLI (command line intepreter).
+# Todos :
+
+- More interactive features, much like prompting the user how many 'Anak Ayam' should get chopped down.
+- Option to have the results, dumped into a plain text file generator.
+
+# Have fun implementing the code!
