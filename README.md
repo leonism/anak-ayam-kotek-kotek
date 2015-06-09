@@ -14,4 +14,4 @@ $ ruby anak-ayam-kotek-kotek.rb
 - More interactive features, much like prompting the user how many 'Anak Ayam' should get chopped down.
 - Option to have the results, dumped into a plain text file generator.
 
-# Have fun implementing the code!
+Have fun implementing the code!
