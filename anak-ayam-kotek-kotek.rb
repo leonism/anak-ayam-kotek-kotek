@@ -7,9 +7,9 @@ puts ''
 anak_ayam = gets.chomp    
 if anak_ayam.is_a?(Integer) == true
   puts ''
-else
-  if anak_ayam.is_a?(Integer) == false
-  puts 'Please write down numeric value, example 1,10,100.'
+  else
+    if anak_ayam.is_a?(Integer) == false
+      puts 'Please write down numeric value, example 1,10,100.'
 # Now get down with it!
 while anak_ayam != 0
   puts 'Tek Kotek Kotek Kotek'
