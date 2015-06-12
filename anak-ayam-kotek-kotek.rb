@@ -4,10 +4,10 @@ puts 'really that good to do some math. So, how many chicken should I chomp toda
 puts 'Now, write down a number below than press, "Enter".'
 
 anak_ayam = gets.chomp    
-if anak_ayam.is_a?(Integer) == true
-  puts ''
+if anak_ayam.is_a?(Integer) == true then 
+  puts '\n'
 else
-  if anak_ayam.is_a?(Integer) == false
+  if anak_ayam.is_a?(Integer) == false then
   puts 'Please write down numeric numbers, eg (1,10,100)'
 # Now get down with it!
 while anak_ayam != 0
@@ -24,7 +24,6 @@ while anak_ayam != 0
     anak_ayam = anak_ayam - 1      
     puts 'Tek Kotek Kotek Kotek'     
     puts 'Mati satu tinggalah '+anak_ayam.to_s+''          
-  else                     
   end
 end
 end
