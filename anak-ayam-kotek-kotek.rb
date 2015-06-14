@@ -2,7 +2,8 @@ class AnakAyam
   def tekKotek( aName )
     @myname = aName
   end 
-  
+end
+
 # Ask Them How Many Anak Ayam Will Get Counted Down!
 puts 'Hi there, and welcome, this is just a simple software to demonstrate how ruby' 
 puts 'really that good to do some math. So, how many chicken should I chomp today?'
