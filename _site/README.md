@@ -7,7 +7,7 @@ $ ruby anak-ayam-kotek-kotek.rb
 #### Requirements :
 
 - Any flavors of Ruby the intepreter that may facilitate the CLI (command line intepreter).
-- Go to http://ruby-lang.com to install Ruby, according to your Operating System.
+- Go to https://www.ruby-lang.org to install Ruby, according to your Operating System.
 
 ##### Todos :
 
