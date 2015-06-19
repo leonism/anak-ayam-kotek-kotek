@@ -11,7 +11,7 @@ if anak_ayam.is_a?(Integer) == true then
     if anak_ayam.is_a?(Integer) == false then
         puts 'Please write down numeric value, example 1,10,100.'
         # Now get down with it!
-      while anak_ayam != 0
+        while anak_ayam != 0
         puts 'Tek Kotek Kotek Kotek'
         puts 'Anak ayam turun '+anak_ayam.to_s+'.'
         puts 'Tek Kotek Kotek Kotek'                 
@@ -19,7 +19,7 @@ if anak_ayam.is_a?(Integer) == true then
         puts 'Mati satu tinggalah '+anak_ayam.to_s+''
         puts ''
         # If we have one anak ayam running left!
-      if anak_ayam == 1            
+        if anak_ayam == 1            
         puts 'Tek Kotek Kotek Kotek' 
         puts 'Anak ayam turunlah '+anak_ayam.to_s+'.'
         anak_ayam = anak_ayam - 1      
